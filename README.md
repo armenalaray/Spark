@@ -1,5 +1,7 @@
 # PySpark Analysis
 
+![Apache_Spark_logo_web](https://github.com/user-attachments/assets/cbec8597-9089-47d6-92d1-ad7e295b33e6)
+
 Dataset: Epicurious recipes with rating and nutrition
 
 https://www.kaggle.com/datasets/hugodarwood/epirecipes
