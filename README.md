@@ -1,12 +1,12 @@
-# Spark Analysis
+# PySpark Analysis
 
-dataset: Epicurious recipes with rating and nutrition
+Dataset: Epicurious recipes with rating and nutrition
 
 https://www.kaggle.com/datasets/hugodarwood/epirecipes
 
 ### Question: what recipes are desserts?
 
-I used Spark to analyze and clean the data in the dataset,
+I used PySpark to analyze and clean the data in the dataset,
 
 I classified data into binary and continues variables.
 
