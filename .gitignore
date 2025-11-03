@@ -1,0 +1,18 @@
+epi_r.csv
+Tabular Data/
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.profile
+.python_history
+.wget-hsts
+Unstructured Data/
+GithubToken.txt
+.gitconfig
+File.ipynb
