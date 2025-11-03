@@ -1,5 +1,5 @@
 # Machine Learning Pipeline using Spark
 
-I made a Machine Learning Pipeline using PySpark.
+![Alt Text](Spark.jpg "Spark Logo")
 
-![Alt Text](Spark.jpg "Optional Title Text")
+I made a Machine Learning Pipeline using PySpark. I used PySpark to clean the dataset
