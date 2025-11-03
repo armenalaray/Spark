@@ -2,9 +2,17 @@
 
 ![Alt Text](Spark.jpg "Spark Logo")
 
-I made a Machine Learning Pipeline using PySpark. I used PySpark to clean the dataset
+I made a logistic regression classifier that classifies whether the dish is a dessert or not.
 
-DataSet =  
+I used PySpark to make the ML pipeline.
+
+## Transformers and Estimators
+
+The pipeline has transformers and estimators.
+
+![-](Pipeline.png "Pipeline")
+
+## Data cleanup
 
 - Read a CSV file containing dish names and multiple columns as feauture candidates.
 - Sanitized the column names (lowered the case and fixed the punctuation, spacing, and nonprintable characters).
@@ -14,3 +22,10 @@ DataSet =
 - Created ratio features (number of calores from a macro over number of calories for the dish).
 - Imputed the mean of continuous features.
 - Scaled continuous features between 0 and 1.0.
+
+## ROC Curve Results
+
+The area under the ROC Curve is the next one:
+
+![-](ROC.png "ROC")
+
