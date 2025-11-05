@@ -1,0 +1,1 @@
+{"class":"__main__.ExtremeValueCapperModel","timestamp":1762318324369,"sparkVersion":"3.5.0","uid":"ExtremeValueCapperModel_d2f14567598d","paramMap":{"inputCol":"sodium","outputCol":"sodium","cap":288003.8710683929,"floor":-281795.4013933026},"defaultParamMap":{"outputCol":"ExtremeValueCapperModel_d2f14567598d__output","boundary":0.0}}
